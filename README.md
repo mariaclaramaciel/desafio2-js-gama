@@ -2,6 +2,7 @@
 Maria Clara Maciel | Guilherme Araujo | Naiza Xavier
 
 > Você pode verificar as respostas direto na pasta de soluções com NodeJs 
-> Ou aqui nesse link 
+<br>
+> Ou aqui nesse link https://desafio2-grupo9.netlify.app/ 
 
 
