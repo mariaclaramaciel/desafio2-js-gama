@@ -13,6 +13,4 @@ function calculaTicketMedio() {
     return inventario / totalDeItens;
 }
 
-console.log(calculaTicketMedio());
-
-console.log(173219.55/91)// confirmando se a logica esta correta!
+console.log(calculaTicketMedio());//1903.5115384615383
