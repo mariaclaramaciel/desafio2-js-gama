@@ -9,13 +9,32 @@
 
 
 ---
+### 💻 Como rodar as respostas:
+
+```
+1. cd solucoes (entrar na pasta)
+```
+```
+2. node exec1.js (rodar arquivo com o node para ver resposta no terminal)
+```
+
+### 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- JavaScript
+- HTML
+- CSS
 
 ### 💻 Desafio
 
-* Contexto: <br> Somos parte de uma equipe de desenvolvimento de websites e fomos contratados para a criação de um site de catálogo de produtos. Agora precisamos definir algumas regras de negócio para nosso Comércio Eletrônico e para isso precisamos definir algumas funcionalidades que podemos trabalhar usando Lógica de Programação e Javascript.
+Contexto:
+
+- Somos parte de uma equipe de desenvolvimento de websites e fomos contratados para a criação de um site de catálogo de produtos. Agora precisamos definir algumas regras de negócio para nosso Comércio Eletrônico e para isso precisamos definir algumas funcionalidades que podemos trabalhar usando Lógica de Programação e Javascript.
 ---
-* Itens a serem resolvidos:<br>
-1. Quantidade total de itens em estoque (somatória das quantidades de todos os produtos)<br>
+Itens a serem resolvidos:
+
+1. Quantidade total de itens em estoque (somatória das quantidades de todos os produtos)<
 
 2. Quantidade total de itens em destaque (somatória das quantidades dos itens marcados como "emDestaque : sim")
 
@@ -45,22 +64,5 @@
 
 15. Departamento menos valioso (similar ao anterior)
 
-
-### 💻 Como rodar as respostas:
-
-```
-1. cd solucoes (entrar na pasta)
-```
-```
-2. node exec1.js (rodar arquivo com o node para ver resposta no terminal)
-```
-
-### 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- JavaScript
-- HTML
-- CSS
 
 
