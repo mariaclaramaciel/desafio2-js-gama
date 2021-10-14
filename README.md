@@ -2,7 +2,7 @@
 <p align="center">Maria Clara Maciel | Guilherme Araujo | Naiza Xavier </p>
 
 <p align="center">
-  <img alt="pagina" src=".github/img-html.png" width="100%">
+  <img alt="pagina" src=".github/banner.png" width="100%">
 </p>
 
 <p> Você pode verificar as respostas direto na pasta de soluções com NodeJs, comandos logo abaixo, ou aqui <a href="https://desafio2-grupo9.netlify.app/">nesse link.</a> 
